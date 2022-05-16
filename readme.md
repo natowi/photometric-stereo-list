@@ -1,5 +1,6 @@
 # Theory and papers
 
+Photometric measurements of lighting quality: An overview https://www.sciencedirect.com/science/article/pii/S0360132318302397
 
 Photometric Stereo-Based Defect Detection System for Steel Components Manufacturing Using a Deep Segmentation Network https://www.mdpi.com/1424-8220/22/3/882/htm
 
