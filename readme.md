@@ -3,6 +3,8 @@
 
 Photometric Stereo-Based Defect Detection System for Steel Components Manufacturing Using a Deep Segmentation Network https://www.mdpi.com/1424-8220/22/3/882/htm
 
+Multi-View Photometric Stereo: A Robust Solution and Benchmark Dataset for Spatially Varying Isotropic Materialshttps://arxiv.org/pdf/2001.06659.pdf
+
 # Tutorials and best practices
 
 
