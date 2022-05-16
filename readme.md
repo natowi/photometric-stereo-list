@@ -8,7 +8,9 @@ Multi-View Photometric Stereo: A Robust Solution and Benchmark Dataset for Spati
 
 https://vgl.ict.usc.edu/Research/DynamicShape/SIGGRAPHAsia2009_DynamicShape.pdf
 
-# Tutorials and best practices
+# Tutorials, best practice, blogs
+
+https://www.factumfoundation.org/pag_fa/1341/in-development-photometric-scanner
 
 
 # Videos
