@@ -40,6 +40,8 @@ Details Capture https://www.vfxgrace.com/details-capture/ https://vfxgrace.gumro
 
 Unity ArtEngine https://blog.unity.com/technology/create-realistic-materials-using-photometric-stereo-via-chrome-ball-in-artengine (20$+/m)
 
+Adobe https://www.adobe.com/products/substance3d-sampler.html https://www.adobe.com/products/substance3d-designer.html (19$+/m)
+
 # Hardware
 
 Domes, chrome balls,...
