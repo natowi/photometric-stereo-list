@@ -8,6 +8,16 @@ Multi-View Photometric Stereo: A Robust Solution and Benchmark Dataset for Spati
 
 https://vgl.ict.usc.edu/Research/DynamicShape/SIGGRAPHAsia2009_DynamicShape.pdf
 
+https://gfx.cs.princeton.edu/pubs/Vlasic_2009_DSC/perfcap.pdf
+
+https://interaction.postech.ac.kr/archive/sites/default/files/SShin_Texture.pdf
+
+https://www.mdpi.com/1424-8220/22/3/882
+
+https://www.advancedillumination.com/application-notes/photometric-stereo-technique/
+
+https://phowo.ifp.uni-stuttgart.de/publications/phowo15/190VanGool.pdf
+
 # Tutorials, best practice, blogs
 
 https://www.factumfoundation.org/pag_fa/1341/in-development-photometric-scanner
